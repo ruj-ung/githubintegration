@@ -10,6 +10,7 @@ namespace github_integration_demo_App
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World Ja");
         }
     }
 }
